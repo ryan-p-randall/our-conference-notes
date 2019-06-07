@@ -33,3 +33,10 @@ Please let me know if:
 So far the best platform I've found (with substantial help from others) is [RiseUp's Etherpad service](https://pad.riseup.net). It lets you use an [Etherpad](https://etherpad.org) without a log-in. Then you can just share the link to your etherpad on whatever social media platform that conference uses.  
 
 These RiseUp etherpads also mobile responsive and use tab indexing to make the contents accessible for users who use keyboard navigation instead of other interfaces.  
+
+## Credits  
+
+The website version of this project uses:  
+
+- The [Beautiful Jekyll theme](https://deanattali.com/beautiful-jekyll/) made by [Dean Attali](http://attalitech.com), with some minor revisions by Ryan.  
+- The [Owl by Creative Stall from the Noun Project](https://thenounproject.com/term/owl/749589/) as the avatar image at the top of most pages.  
