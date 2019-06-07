@@ -1,6 +1,10 @@
 # our-conference-notes
 A place for sharing collective conference notes.
 
+[2018 ALAAC notes](/2018-ALAAC-american-library-association-annual-conference)  
+[2019 ACRL notes](/2019-ACRL-association-of-college-and-research-libraries)  
+[2019 single events notes](/2019-single-events)  
+
 ## What Is This?  
 
 Typing notes during conference sessions helps me stay focused. So I figured, "why not share them once I'm done?  
