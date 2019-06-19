@@ -23,12 +23,11 @@ description: Our notetaking is stronger together!
 
 # List of links in the navigation bar
 navbar-links:
-  About This Project: "aboutme"
-  Conference Folders:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Collection Home: "https://github.com/ryan-p-randall/our-conference-notes"
+  About this Project: "aboutme"
+  Browse notes by:
+    - Conference: "http://deanattali.com/beautiful-jekyll/"
+    - Concept: "http://www.markdowntutorial.com/"
+  Under the Hood: "https://github.com/ryan-p-randall/our-conference-notes"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -75,6 +74,7 @@ social-network-links:
 #  email: "someone@example.com"
 #  facebook: daattali
   github: ryan-p-randall
+#  mastodon: 
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -93,7 +93,8 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  mastodon: false
+  facebook: false
   google: false
   linkedin: false
 

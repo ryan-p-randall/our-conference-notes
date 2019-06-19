@@ -1,4 +1,4 @@
-/* the code for these visually "hidden" classes comes from https://webaim.org/techniques/css/invisiblecontent/ */
+/* Accessibility things; the code for these visually "hidden" classes comes from https://webaim.org/techniques/css/invisiblecontent/ */
 
 .visually-hidden {
     position: absolute;
@@ -23,4 +23,96 @@
     position: static;
     width: auto;
     height: auto;
+}
+
+/* Font customizations */
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #404040;
+  position: relative;
+  background-color: {{ site.page-col }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img }});
+  background-attachment: fixed;
+  {% endif %}
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.main-explain-area {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 15px inherit;
+}
+
+.navbar-custom {
+  background-color: {{ site.navbar-col }};
+  border-bottom: 1px solid #EAEAEA;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  {% if site.navbar-img %}
+  background-image: url({{ site.navbar-img }});
+  background-attachment: fixed;
+  {% endif %}
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  font-weight: 700;
+  color: {{ site.navbar-text-col }};
+}
+
+footer .copyright {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin-bottom: 0;
+}
+.post-preview .post-entry {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.post-preview .post-read-more {
+  font-weight: 700;
+}
+
+.blog-tags {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #999;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading {
+  font-size: 27px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+.intro-header.big-img .img-desc {
+  background: rgba(30, 30, 30, 0.6);
+  position: absolute;
+  padding: 5px 10px;
+  font-size: 11px;
+  color: #EEE;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.pager li a {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 10px 5px;
+  background-color: #FFF;
+  border-radius: 0;
+  color: #404040;
+}
+#full-tags-list {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
