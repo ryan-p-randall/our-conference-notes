@@ -13,6 +13,8 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+  <link rel="stylesheet" href="{{ site.baseurl}}/assets/fonts/font-faces.css" type="text/css" />
+
   {% include gtag.html %}
   {% include gtm_head.html %}
   {% include google_analytics.html %}
@@ -52,8 +54,6 @@
       <link rel="stylesheet" href="{{ site.baseurl}}/assets/fonts/{{ font }}.ttf" type="text/css" />
     {% endfor %}
   {% endif %}
-
-<link rel="stylesheet" href="{{ site.baseurl}}/assets/fonts/font-faces.css" type="text/css" />
 
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
