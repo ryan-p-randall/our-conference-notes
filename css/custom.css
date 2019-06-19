@@ -116,3 +116,27 @@ footer .copyright {
 #full-tags-list {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+/* try to include hosted fonts */
+
+
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("{{ site.baseurl }}/assets/fonts/OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato"; 
+  font-style: normal;
+  font-weight: 400;
+  src: url("{{ site.baseurl}}/assets/fonts/Lato-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato"; 
+  font-style: normal;
+  font-weight: 700;
+  src: url("{{ site.baseurl}}/assets/fonts/Lato-Bold.ttf");
+}

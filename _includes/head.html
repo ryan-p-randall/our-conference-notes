@@ -49,7 +49,7 @@
 
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="{{ site.baseurl}}/assets/fonts/{{ font }}.ttf" type="text/css" />
     {% endfor %}
   {% endif %}
 
