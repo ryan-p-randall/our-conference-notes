@@ -1,0 +1,26 @@
+/* the code for these visually "hidden" classes comes from https://webaim.org/techniques/css/invisiblecontent/ */
+
+.visually-hidden {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+#skip a, #skip a:hover {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    color: {{ site.hover-col }};
+}
+
+#skip a:focus {
+    position: static;
+    width: auto;
+    height: auto;
+}

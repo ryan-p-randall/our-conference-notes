@@ -17,7 +17,7 @@ baseurl: "/our-conference-notes"
 title: Our Conference Notes
 
 # Short description of your site
-description: Notetaking is better when we work together!
+description: Our notetaking is stronger together!
 
 # --- Navigation bar options --- #
 
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Ryan Randall and collective notetakers
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -176,8 +176,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
@@ -200,60 +200,60 @@ exclude:
   - Vagrantfile
 
 # prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+# prose:
+#  rooturl: '_posts'
+#  media: 'img'
+#  ignore:
+#    - 404.html
+#    - LICENSE
+#    - feed.xml
+#    - _config.yml
+#    - /_layouts
+#    - /_includes
+#    - /css
+#    - /img
+#    - /js
+#  metadata:
+#    _posts:
+#      - name: "layout"
+#        field:
+#          element: "hidden"
+#          value: "post"
+#      - name: "title"
+#        field:
+#          element: "text"
+#          label: "Post title"
+#          placeholder: "Title"
+#          alterable: true
+#      - name: "subtitle"
+#        field:
+#          element: "textarea"
+#          label: "Subtitle"
+#          placeholder: "A description of your post."
+#          alterable: true
+#      - name: "date"
+#          element: "text"
+#          label: "Date"
+#          help: "Enter date of post."
+#          placeholder: "yyyy-mm-dd"
+#          alterable: true
+#      - name: "image"
+#        field:
+#          element: "text"
+#          label: "Image"
+#          help: "Add a thumbnail image to your post."
+#          placeholder: "Thumbnail"
+#          alterable: true
+#      - name: "published"
+#        field:
+#          element: "checkbox"
+#          label: "Publish"
+#          help: "Check to publish post, uncheck to hide."
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
