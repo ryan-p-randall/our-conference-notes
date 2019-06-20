@@ -1,0 +1,5 @@
+https://pad.riseup.net/p/IdahoFuturesCamp2019-Figueroa-keep (editable)
+
+https://pad.riseup.net/p/r.f9a69b3518057dbff166b66fa0aa7f26 (read only)
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.f9a69b3518057dbff166b66fa0aa7f26?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>
