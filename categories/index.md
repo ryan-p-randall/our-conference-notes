@@ -5,6 +5,17 @@ excerpt: "An archive of posts sorted by conference."
 search_omit: true
 ---
 
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
+
 {%- capture site_categories -%}
     {%- for category in site.categories -%}
         {{- category | first -}}{%- unless forloop.last -%},{%- endunless -%}
