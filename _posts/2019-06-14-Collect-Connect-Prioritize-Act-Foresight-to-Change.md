@@ -2,6 +2,7 @@
 layout: post
 title: "Collect. Connect. Prioritize. Act: Foresight to Change"
 subtitle: Miguel Figueroa
+date: 2019-06-12 07:30:00
 categories: [Idaho Libraries Futures Camp]
 tags: [library work, futures]
 comments: true

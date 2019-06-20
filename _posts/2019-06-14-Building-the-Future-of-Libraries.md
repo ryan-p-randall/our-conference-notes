@@ -2,6 +2,7 @@
 layout: post
 title: "Building the Library of Tomorrow Today: A Look at the Future of Libraries and Librarianship"
 subtitle: Marcellus Turner
+date: 2019-06-15 12:30:00
 categories: [Idaho Libraries Futures Camp]
 tags: [library work, futures]
 comments: true
