@@ -168,4 +168,4 @@ A: Kotz article recommendation again; retooling of the working class needs to ha
 
 [Original Pad (read only)](https://pad.riseup.net/p/r.7d194bf61e10ce285e8179b4ec312161)
 
-<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.7d194bf61e10ce285e8179b4ec312161?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.7d194bf61e10ce285e8179b4ec312161?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>
