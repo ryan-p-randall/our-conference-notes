@@ -6,7 +6,7 @@ subtitle: A Better Info Sharing is Possible
 
 ### The Big Picture  
 
-A lot of professional development for library workers happens through conferences, talks, presentations, webinars… all sorts of things. We can't all attend everything, nor should we expect ourselves to do extra labor of learning while we're off the clock.  
+A lot of professional development for library workers happens through conferences, talks, presentations, webinars… all sorts of things. We can't all attend everything, nor should we expect ourselves to do extra labor while we're off the clock.  
 
 Information privilege pertains to institutions, just like to communities and individuals. Those of us with the institutional resources to do professional development can help share the wealth with our under-resourced colleagues.  
 
@@ -14,15 +14,17 @@ By sharing our notes, we can be stronger together.
 
 ### The Personal Picture  
 
-I type much faster than I write by hand—and the results are far more legible! This kind of note taking helps me focus during presentations, but trying to chunk the ideas into twitter-sized bits added a different type of distraction. So at one of the first conferences I attended, I took some notes on Goggle Docs. Then, later, I felt unsettled. Amplifying work that whose creators want it to be shared is great, but I didn't feel comfortable with that particular platform.  
+I type much faster than I write by hand—and the results are far more legible! This kind of note taking helps me focus during presentations, but trying to chunk the ideas into social media-sized bits adds a different type of distraction. 
 
-I spell that company's name "Goggle" intentionally. They're a prime example of surveillance capitalism—I don't want to encourage any colleagues to have to exchange private information / metadata to access professional development resources.  
+So at one of the first library conferences I attended, I took some note to share using Goggle Docs. Then, later, I felt unsettled.  
 
-Then I remembered Etherpads and found RiseUp's Etherpad service. And here we are!  
+[Amplifying](https://en.wikipedia.org/wiki/Human_microphone) work whose creators want it to be shared is great, but I didn't feel comfortable drawing people to that particular platform. I spell that company's name "Goggle" intentionally. They're a prime example of what Shoshana Zuboff has termed [surveillance capitalism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754). I don't want to encourage any colleagues to have to exchange private information / metadata to access professional development resources.  
+
+Then I remembered Etherpads. Myself, Kate Deibel, Achintya Rao, and other folks from Mastodon and Twitter compared the accessibility and ease of use of [RiseUp's Etherpad](http://pad.riseup.net) to those from [CryptPad](https://cryptpad.fr/what-is-cryptpad.html). RiseUp won because it is simplest and, unlike CryptPad, doesn't break the ability to press the `tab` button for keyboard navigation. (That's fixed but is still far more cumbersome). And here we are!  
 
 ### The Procedure  
 
-I don't claim credit for all the notes shared here, but they are CC-BY. Since RiseUp's Etherpad service is geared toward privacy, note-takers have to identify themselves in order to get credit.  
+I don't claim credit for all the notes shared here, but they are shared [CC-BY](https://creativecommons.org/licenses/by/4.0/). Since RiseUp's Etherpad service is geared toward privacy, note-takers have to identify themselves in order to get credit.  
 
 At the moment, this is a collection of notes I and other attendees have collectively taken at conferences. In order to help amplify peoples' work, I might add additional links to notes taken by others.  
 
@@ -47,6 +49,6 @@ If other people are interested in helping moderate this, I'd be equally happy to
 
 I'm hoping this kind of note taking will take off—and I'm very keen **not** to have the content of a session accidentally attributed to the notetakers instead of the presenters.  
 
-So I'm currently thinking it might be best to attribute the "authorship" of these to a collective, somewhere on a spectrum of known authorship from [J.K. Gibson-Graham](https://en.wikipedia.org/wiki/J._K._Gibson-Graham) to the [Otolith Group](https://en.wikipedia.org/wiki/Kodwo_Eshun#The_Otolith_Group) to [Drexciya](http://www.mtv.com/news/2696394/drexciya-reissues/) to [CrimethInc](https://en.wikipedia.org/wiki/CrimethInc.).  
+So I'm currently thinking it might be best to attribute the "authorship" of these notes to a collective. That can place the "authorship" somewhere on a range that includes collectives like [J.K. Gibson-Graham](https://en.wikipedia.org/wiki/J._K._Gibson-Graham), the [Otolith Group](https://en.wikipedia.org/wiki/Kodwo_Eshun#The_Otolith_Group), [Drexciya](http://www.mtv.com/news/2696394/drexciya-reissues/), [Guerrilla Girls](https://en.wikipedia.org/wiki/Guerrilla_Girls), or [CrimethInc](https://en.wikipedia.org/wiki/CrimethInc.).  
 
 Let me know what you think would be best by reaching out to me [on Twitter](http://twitter.com/foureyedsoul), [on Mastodon](https://scholar.social/@foureyedsoul), or by creating a GitHub issue if you have a GitHub account.  
