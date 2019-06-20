@@ -167,7 +167,6 @@
     font-family: 'CooperHewitt-Semibold';
     src: url('CooperHewitt-Semibold.eot');
     src: url('CooperHewitt-Semibold.eot?#iefix') format('embedded-opentype'),
-         url('CooperHewitt-Semibold.woff2') format('woff2'),
          url('CooperHewitt-Semibold.woff') format('woff'),
          url('CooperHewitt-Semibold.ttf') format('truetype'),
          url('CooperHewitt-Semibold.svg#open_sansbold') format('svg');
@@ -180,7 +179,6 @@
     font-family: 'CooperHewitt-Book';
     src: url('CooperHewitt-Book.eot');
     src: url('CooperHewitt-Book.eot?#iefix') format('embedded-opentype'),
-         url('CooperHewitt-Book.woff2') format('woff2'),
          url('CooperHewitt-Book.woff') format('woff'),
          url('CooperHewitt-Book.ttf') format('truetype'),
          url('CooperHewitt-Book.svg#open_sansbold') format('svg');

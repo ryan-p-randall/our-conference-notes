@@ -1,4 +1,10 @@
-# From Value to Values: Information Literacy, Capitalism, and Resistance  
+---
+layout: post
+title: From Value to Values: Information Literacy, Capitalism, and Resistance
+subtitle: Eamon Tewell, Nora Almeida, Romel Espinel, and Lisa Hinchliffe
+tags: [infoLit, capitalism, value(s)]
+comments: true
+---
 
 Presenters:  
 - Eamon Tewell  
@@ -154,3 +160,9 @@ A: tech often used as bandaid for labor underfunding, as PR stunt to draw attent
 
 A: shift in those countries, increasingly capping tuition; free education movement sounds great but there are also interesting critiques, where people who benefit the most might be the people who could pay for tuition perfectly fine on their own  
 A: Kotz article recommendation again; retooling of the working class needs to happen, so has to be some kind of public education, question is how they'll pay for it; we know they have money because they pay for wars; we have to figure out how to get that money shared back to working class people  
+
+## Link to Etherpad  
+
+[Original Pad (read only)](https://pad.riseup.net/p/r.7d194bf61e10ce285e8179b4ec312161)
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.7d194bf61e10ce285e8179b4ec312161?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
