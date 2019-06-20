@@ -214,7 +214,7 @@ img {
   position: relative;
 }
 .navbar-custom .nav .navlinks-parent:after {
-  content: " \25BC";
+  content: ":arrow_down";
 }
 .navbar-custom .nav .navlinks-children {
   width: 100%;

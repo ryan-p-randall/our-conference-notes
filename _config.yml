@@ -24,7 +24,7 @@ description: We're stronger notetakers together!
 # List of links in the navigation bar
 navbar-links:
   About this Project: "aboutme"
-  Browse notes by:
+  "Browse notes by :arrow_down:":
     - Conference: "http://deanattali.com/beautiful-jekyll/"
     - Concept: "http://www.markdowntutorial.com/"
   Under the Hood: "https://github.com/ryan-p-randall/our-conference-notes"
