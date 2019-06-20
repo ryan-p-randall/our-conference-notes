@@ -130,12 +130,12 @@ footer .copyright {
   font-family: 'Lato'; 
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/Lato-Regular.ttf');
+  src: url('../assets/fonts/Lato-Regular.ttf');
 }
 
 @font-face {
   font-family: 'Lato'; 
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/Lato-Bold.ttf');
+  src: url('../assets/fonts/Lato-Bold.ttf');
 }
