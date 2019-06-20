@@ -28,7 +28,7 @@
 /* Font customizations */
 
 body {
-  font-family: 'latoregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'OpenSans-Regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -40,7 +40,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'fira_sansbold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'CooperHewitt-Semibold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -52,7 +52,7 @@ h1,h2,h3,h4,h5,h6 {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'latoregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'CooperHewitt-Book', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -65,7 +65,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 footer .copyright {
-  font-family: 'latoregular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'CooperHewitt-Book', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
