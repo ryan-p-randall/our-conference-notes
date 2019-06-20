@@ -9,7 +9,7 @@ comments: true
 ---
 
 This etherpad is for the ALAAC2018 Saturday 2:30pm--3:30pm session: 
-Building Inclusion: How Can Research Instruction at Two-Year Colleges Help Students Successfully Transition to the University? ( https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352254 ) 
+[Building Inclusion: How Can Research Instruction at Two-Year Colleges Help Students Successfully Transition to the University?](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352254) 
 
 Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!  
 

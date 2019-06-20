@@ -9,7 +9,7 @@ comments: true
 ---
 
 Marcellus Turner, Seattle Public Library  
-Idaho Libraries Futures Camp  
+[Idaho Libraries Futures Camp](https://libraries.idaho.gov/continuing-education/idaho-libraries-futures-camp/)
 
 ## His Goals for today:  
 - Not Bore You  

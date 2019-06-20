@@ -10,7 +10,7 @@ comments: true
 
 Miguel Figueroa, ALA's Center for the Future of Libraries  
 Leading, Current, Lagging information  
-
+[Idaho Libraries Futures Camp](https://libraries.idaho.gov/continuing-education/idaho-libraries-futures-camp/)
 
 Figueroa calls back to: 
 - Dr. Hemingway's presentation yesterday, her vision of a more vibrant economic future & more bleak one for STEM in Idaho  

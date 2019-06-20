@@ -9,7 +9,7 @@ comments: true
 ---
 
 This etherpad is for the ALAAC2018 Saturday 4:00pm--5:00pm session:  
-New Librarians on the Block: Early Career Librarianship, Management, and Leadership https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459
+[New Librarians on the Block: Early Career Librarianship, Management, and Leadership](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459)
 
 Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!  
 

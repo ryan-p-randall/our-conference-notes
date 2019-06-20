@@ -11,7 +11,7 @@ comments: true
 
 April Hathcock  
 This etherpad is for the ALAAC2018 Sunday 2:30pm--3:30pm session: 
-Breaking Below the Surface of Racism, Whiteness, and Implicit Bias https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352249
+[Breaking Below the Surface of Racism, Whiteness, and Implicit Bias](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352249)
 
 {Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!}  
 
