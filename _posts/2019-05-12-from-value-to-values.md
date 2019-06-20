@@ -16,6 +16,8 @@ Presenters:
 
 hashtag: [#ILcapitalism](https://twitter.com/search?q=%23ILcapitalism)  
 
+:arrow_down:
+
 ## Introduction  
 
 ### Eamon  

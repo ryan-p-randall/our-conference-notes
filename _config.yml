@@ -19,6 +19,11 @@ title: Our Conference Notes
 # Short description of your site
 description: We're stronger notetakers together!
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -251,10 +256,7 @@ exclude:
 #          label: "Publish"
 #          help: "Check to publish post, uncheck to hide."
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
