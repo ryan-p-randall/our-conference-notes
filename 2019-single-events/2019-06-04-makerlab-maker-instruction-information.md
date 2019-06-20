@@ -1,9 +1,15 @@
-# Maker Instruction through the Lens of Information  
+---
+layout: post
+title: "Maker Instruction through the Lens of Information"
+subtitle: Amy Vecchione & Stephanie Milne-Lane
+categories: [BSU Albertsons Library]
+tags: [infoLit, makerspaces, framework]
+comments: true
+---
 
 Amy Vecchione & Stephanie Milne-Lane  
 2019-06-04  
-Boise State University's Albertsons Library  
-[original etherpad](https://pad.riseup.net/p/r.e031ea0bd425d3339a2079e5bd75c0fc)  
+Boise State University's Albertsons Library    
 
 ## Amy Vecchione    
 
@@ -83,3 +89,9 @@ Audience participant (I think Leslie Madsen?) talks about how Maker competencies
 ### Q: How do you deal with issues of ownership, authorship, intellectual property in MakerLab?  
 
 Amy: Great Q, librarians and staff made a handout for students to help parse out whether it's technically owned by the University (i.e. faculty designing something related to their own discipline), whether it's the student's intellectual property, etc. Gives Amy a good chance to talk about copyright with students.  
+
+## Link to Etherpad  
+
+[original etherpad](https://pad.riseup.net/p/r.e031ea0bd425d3339a2079e5bd75c0fc)
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.e031ea0bd425d3339a2079e5bd75c0fc?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Index
-excerpt: "An archive of posts sorted by tag."
+title: Concept Index
+excerpt: "An archive of posts sorted by concept."
 search_omit: true
 ---
 
