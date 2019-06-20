@@ -204,6 +204,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - .DS_Store
 
 # prose.io config
 # prose:
