@@ -30,8 +30,8 @@ plugins:
 navbar-links:
   About this Project: "aboutme"
   "Browse notes by :arrow_down:":
-    - Conference: "{{ site.url }}/categories"
-    - Concept: "{{ site.url }}/tags"
+    - Conference: "/categories"
+    - Concept: "/tags"
   Under the Hood: "https://github.com/ryan-p-randall/our-conference-notes"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -205,6 +205,7 @@ exclude:
   - README.md
   - Vagrantfile
   - .DS_Store
+  - *.DS_Store
 
 # prose.io config
 # prose:
