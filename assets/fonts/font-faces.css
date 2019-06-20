@@ -2,19 +2,19 @@
   font-family: "OpenSans";
   font-style: normal;
   font-weight: 400;
-  src: url("{{ site.baseurl }}/assets/fonts/OpenSans-Regular.ttf");
+  src: url("OpenSans-Regular.ttf");
 }
 
 @font-face {
   font-family: "Lato"; 
   font-style: normal;
   font-weight: 400;
-  src: url("{{ site.baseurl}}/assets/fonts/Lato-Regular.ttf");
+  src: url("Lato-Regular.ttf");
 }
 
 @font-face {
   font-family: "Lato"; 
   font-style: normal;
   font-weight: 700;
-  src: url("{{ site.baseurl}}/assets/fonts/Lato-Bold.ttf");
+  src: url("Lato-Bold.ttf");
 }
