@@ -16,9 +16,6 @@ Presenters:
 
 hashtag: [#ILcapitalism](https://twitter.com/search?q=%23ILcapitalism)  
 
-:fire: fire  
-:arrow_down:
-
 ## Introduction  
 
 ### Eamon  
@@ -39,7 +36,7 @@ hashtag: [#ILcapitalism](https://twitter.com/search?q=%23ILcapitalism)
 ### Nora  
 
 - talks about economic underpinnings of why they have to log in from off campus  
-- library password is analogus to the log-in for premium cable / HBO content  
+- library password is analogous to the log-in for premium cable / HBO content  
 
 ### Lisa  
 
@@ -50,7 +47,7 @@ hashtag: [#ILcapitalism](https://twitter.com/search?q=%23ILcapitalism)
 - there's so many ways  
 - Pink Floyd's imagery of students pushed into machinery is a great image of the one-shot instruction model, conveyor belt banking system of instruction  
 
-(Great use of microphone, having people come to it since roving mic had a dead battery)  
+{Great use of microphone, having people come to it since roving mic had a dead battery}  
 
 ### Think / Pair / Share on: "What capitalist metaphors or language do you use with patrons / colleagues / administraotrs?"  
 
