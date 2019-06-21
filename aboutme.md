@@ -47,9 +47,9 @@ If other people are interested in helping moderate this, I'd be equally happy to
 
 ### Attribution  
 
-#### Collectives?  
-
 I'm hoping this kind of note taking will take off—and I'm very keen **not** to have the content of a session accidentally attributed to the notetakers instead of the presenters.  
+
+#### Collectives?  
 
 So I'm currently thinking it might be best to attribute the "authorship" of these notes to a collective. That can place the "authorship" somewhere on a range that includes collectives like [J.K. Gibson-Graham](https://en.wikipedia.org/wiki/J._K._Gibson-Graham), the [Otolith Group](https://en.wikipedia.org/wiki/Kodwo_Eshun#The_Otolith_Group), [Drexciya](http://www.mtv.com/news/2696394/drexciya-reissues/), [Guerrilla Girls](https://en.wikipedia.org/wiki/Guerrilla_Girls), or [CrimethInc](https://en.wikipedia.org/wiki/CrimethInc.).  
 
