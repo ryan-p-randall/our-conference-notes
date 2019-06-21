@@ -28,6 +28,9 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
+gh_user: ryan-p-randall  
+gh_repo: our-conference-notes  
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
