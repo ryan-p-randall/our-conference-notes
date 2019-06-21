@@ -14,9 +14,9 @@ By sharing our notes, we can be stronger together.
 
 ### The Personal Picture  
 
-I type much faster than I write by hand—and the results are far more legible! This kind of note taking helps me focus during presentations, but trying to chunk the ideas into social media-sized bits adds a different type of distraction. 
+I type much faster than I write by hand—and the results are far more legible! This kind of note taking helps me focus during presentations, but trying to chunk the ideas into social media-sized bits adds a different type of distraction.  
 
-So at one of the first library conferences I attended, I took some note to share using Goggle Docs. Then, later, I felt unsettled.  
+So at one of the first library conferences I attended, I took some notes to share using Goggle Docs. Then, later, I felt unsettled.  
 
 [Amplifying](https://en.wikipedia.org/wiki/Human_microphone) work whose creators want it to be shared is great, but I didn't feel comfortable drawing people to that particular platform. I spell that company's name "Goggle" intentionally. They're a prime example of what Shoshana Zuboff has termed [surveillance capitalism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754). I don't want to encourage any colleagues to have to exchange private information / metadata to access professional development resources.  
 
@@ -47,8 +47,18 @@ If other people are interested in helping moderate this, I'd be equally happy to
 
 ### Attribution  
 
+#### Collectives?  
+
 I'm hoping this kind of note taking will take off—and I'm very keen **not** to have the content of a session accidentally attributed to the notetakers instead of the presenters.  
 
 So I'm currently thinking it might be best to attribute the "authorship" of these notes to a collective. That can place the "authorship" somewhere on a range that includes collectives like [J.K. Gibson-Graham](https://en.wikipedia.org/wiki/J._K._Gibson-Graham), the [Otolith Group](https://en.wikipedia.org/wiki/Kodwo_Eshun#The_Otolith_Group), [Drexciya](http://www.mtv.com/news/2696394/drexciya-reissues/), [Guerrilla Girls](https://en.wikipedia.org/wiki/Guerrilla_Girls), or [CrimethInc](https://en.wikipedia.org/wiki/CrimethInc.).  
 
-Let me know what you think would be best by reaching out to me [on Twitter](http://twitter.com/foureyedsoul), [on Mastodon](https://scholar.social/@foureyedsoul), or by creating a GitHub issue if you have a GitHub account.  
+#### Contributors?  
+
+Simultaneously with the above paragraph, credit and acknowledgement are huge motivators, particularly in a field that's profoundly underfunded and underresourced. So perhaps it would be best to make space for notetakers and other participants to identify themselves as "contributors"? Now that the subtitle for each presentation lists the presenters, confusion over the correct attribution seems like less of a concern.  
+
+### Contact  
+
+If you're interested in contributing, moderating, linking to your notes hosted elsewhere, clarifying or removing parts from one of your presentations, etc…, please reach out!  
+
+I'm [on Twitter](http://twitter.com/foureyedsoul) and [on Mastodon](https://scholar.social/@foureyedsoul). You can also [create a GitHub issue](https://github.com/{{ gh_user }}/{{ gh_repo }}/issues) if you have a GitHub account.  
