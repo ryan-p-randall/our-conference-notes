@@ -61,4 +61,4 @@ Simultaneously with the above paragraph, credit and acknowledgement are huge mot
 
 If you're interested in contributing, moderating, linking to your notes hosted elsewhere, clarifying or removing parts from one of your presentations, etc…, please reach out!  
 
-I'm [on Twitter](http://twitter.com/foureyedsoul) and [on Mastodon](https://scholar.social/@foureyedsoul). You can also [create a GitHub issue](https://github.com/{{ gh_user }}/{{ gh_repo }}/issues) if you have a GitHub account.  
+I'm [on Twitter](http://twitter.com/foureyedsoul) and [on Mastodon](https://scholar.social/@foureyedsoul). You can also [create a GitHub issue](https://github.com/ryan-p-randall/our-conference-notes/issues) if you have a GitHub account.  
