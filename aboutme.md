@@ -20,7 +20,7 @@ So at one of the first library conferences I attended, I took some notes to shar
 
 [Amplifying](https://en.wikipedia.org/wiki/Human_microphone) work whose creators want it to be shared is great, but I didn't feel comfortable drawing people to that particular platform. I spell that company's name "Goggle" intentionally. They're a prime example of what Shoshana Zuboff has termed [surveillance capitalism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754). I don't want to encourage any colleagues to have to exchange private information / metadata to access professional development resources.  
 
-Then I remembered Etherpads. Myself, Kate Deibel, Achintya Rao, and other folks from Mastodon and Twitter compared the accessibility and ease of use of [RiseUp's Etherpad](http://pad.riseup.net) to those from [CryptPad](https://cryptpad.fr/what-is-cryptpad.html). RiseUp won because it is simplest and, unlike CryptPad, doesn't break the ability to press the `tab` button for keyboard navigation. (That's fixed but is still far more cumbersome). And here we are!  
+Then I remembered Etherpads. Myself, Kate Deibel, Achintya Rao, Carrie Wade, and other folks from Mastodon and Twitter compared the accessibility and ease of use of [RiseUp's Etherpad](http://pad.riseup.net) to those from [CryptPad](https://cryptpad.fr/what-is-cryptpad.html). RiseUp won because it is simplest and, unlike CryptPad, doesn't break the ability to press the `tab` button for keyboard navigation. (That's fixed but is still far more cumbersome). And here we are!  
 
 ### The Procedure  
 
@@ -56,6 +56,24 @@ So I'm currently thinking it might be best to attribute the "authorship" of thes
 #### Contributors?  
 
 Simultaneously with the above paragraph, credit and acknowledgement are huge motivators, particularly in a field that's profoundly underfunded and underresourced. So perhaps it would be best to make space for notetakers and other participants to identify themselves as "contributors"? Now that the subtitle for each presentation lists the presenters, confusion over the correct attribution seems like less of a concern.  
+
+### Scope  
+
+A couple people have asked on Mastodon whether they should contribute notes from other disciplines, like philosophy, linguistics, or physics. For the moment, I'm thinking that such a broad scope would counter-intuitively make this collection increasingly less useful.  
+
+#### Current Scope  
+
+I'm currently thinking this as a space for things:  
+- related to library work  
+  - "related" here is up to any potential contributor who's worked in a library or is in library school    
+- closely adjacent to library work or interests of library workers  
+  - this can range from cultural studies to computer science to critical race theory to things that also do not start with "C"  
+  - in other words, I'll keep posting notes from most conferences or events I attend, even though they're often more directly related to literature than libraries  
+  - the collection can always be split in the future if it becomes unruly  
+
+#### Fork It  
+
+I'd love it if people were inspired by this idea enough to [fork this](https://guides.github.com/activities/forking/) into collections of notes related to things outside of this collection's current scope! That's a large part of why I've chosen GitHub as the platform and licensed this CC-BY.  
 
 ### Contact  
 
