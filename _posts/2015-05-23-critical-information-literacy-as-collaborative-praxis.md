@@ -4,7 +4,7 @@ title: "Critical Information Literacy as Collaborative Praxis"
 subtitle: "Karen Nicholson, Jessica Critten, Ryan Randall, and Eamon Tewell"
 date: 2015-05-23
 categories: [Cultural Studies Association 2015]
-tags: [cultural studies, critical information literacy]
+tags: [cultural studies, critical information literacy, praxis]
 published: true
 comments: false
 ---
