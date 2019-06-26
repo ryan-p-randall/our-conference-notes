@@ -68,7 +68,7 @@ comments: false
 - Narrative plenitude is when almost all of the stories are about you, that's a sign that you're part of the majority  
 - need to share power & share the means of narrative production  
 - Public service announcement for condition of voicelessness  
-- call for immigrant parents & those associated: you have to do better. Those of you with artistic children, encourage and grow their skills so they can write award winning autobiographies that scathingly feature you  
+- His call for immigrant parents & those associated: you have to do better. Those of you with artistic children, encourage and grow their skills so they can write award winning autobiographies that scathingly feature you.  
 
 ## Link back to ACRL2019 Notes Collection  
 
