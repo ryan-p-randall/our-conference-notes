@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viet Thanh Nguyen's Keynote"
-subtitle: Vieth Thanh Nguyen
+subtitle: Viet Thanh Nguyen
 date: 2019-04-11 11:00
 categories: [ACRL 2019]
 tags: [refugees, representation]
@@ -77,7 +77,8 @@ comments: false
 ## Link to Etherpad  
 
 [Original Etherpad](https://pad.riseup.net/p/r.8ad28c0db62a9888f4a55cd7f2d61d7a)  
-<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.bb5d3097201e1777b489e976bb4fe952?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>  
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.8ad28c0db62a9888f4a55cd7f2d61d7a?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>
 
 --- 
 Welcome to pad.riseup.net!
