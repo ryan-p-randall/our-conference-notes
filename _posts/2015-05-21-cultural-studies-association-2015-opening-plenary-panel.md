@@ -3,11 +3,13 @@ layout: post
 title: "The University in Theory; or, The Future of (Fugitive) Study"
 subtitle: "Bruce Burgett, Sunaina Maira, Nick Mitchell, Fred Moten, Donna Murch, Vineeta Singh, & Stefano Harney"
 date: 2015-05-21
-categories: [CSA 2015]
+categories: [Cultural Studies Association 2015]
 tags: [cultural studies, institutional critique]
 published: true
 comments: false
 ---
+
+["Another University is Possible: Praxis, Activism, and the Promise of Critical Pedagogy"](http://www.culturalstudiesassociation.org/content.asp?contentid=290)  
 
 Plenary Speakers:
 - Bruce Burgett, University of Washington Bothell (Chair and Moderator)
