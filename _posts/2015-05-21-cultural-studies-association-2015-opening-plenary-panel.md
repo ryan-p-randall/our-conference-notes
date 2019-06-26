@@ -5,7 +5,7 @@ subtitle: "Bruce Burgett, Sunaina Maira, Nick Mitchell, Fred Moten, Donna Murch,
 date: 2015-05-21
 categories: [CSA 2015]
 tags: [cultural studies, institutional critique]
-published: false
+published: true
 comments: false
 ---
 
