@@ -4,7 +4,7 @@ title: "The Soft Stuff is the Real Stuff: Reframing librarianship through a rela
 subtitle: Veronica Arellano Douglas, Anastasia Chiu, Joanna Gadsby, Alana Kumbier, Lalitha Nataraj  
 date: 2019-04-11 09:40
 categories: [ACRL 2019]
-tags: []
+tags: [theory]
 comments: false
 ---
 
