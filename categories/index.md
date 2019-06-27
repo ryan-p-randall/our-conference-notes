@@ -8,9 +8,9 @@ search_omit: true
 {% assign all_categories = site.categories %}
 {% assign alphabetical_categories = (all_categories | sort_natural) %}
 {% for category in alphabetical_categories %}
-  <h3>{{ category[0] }}</h3>
+  <h3>{{ category }}</h3>
   <ul>
-    {% for post in category[1] %}
+    {% for post in category %}
       <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
