@@ -5,7 +5,8 @@ subtitle: Marcellus Turner
 date: 2019-06-15 12:30:00
 categories: [Idaho Libraries Futures Camp]
 tags: [library work, futures]
-comments: true
+published: true
+comments: false
 ---
 
 Marcellus Turner, Seattle Public Library  

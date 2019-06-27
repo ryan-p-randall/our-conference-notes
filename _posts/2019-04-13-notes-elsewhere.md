@@ -5,7 +5,8 @@ subtitle: Other Collective Notes
 date: 2019-04-13 20:00
 categories: [ACRL 2019]
 tags: [collective notes, critical race theory, whiteness]
-comments: true
+published: true
+comments: false
 ---
 
 Here are links to other collective notes.  

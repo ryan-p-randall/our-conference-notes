@@ -28,7 +28,7 @@ Presenters:
 - Stone Center at Wellesley College, feminist model of human development; clients mostly white heterosexual women in relationships  
 - later folks (women of color, queer folks, etc) recognized the limits of looking primarily/exclusively at sexism, now about other systems of oppression as well  
     
-- First tenent of relational-cultural theory is connection  
+- First tenet of relational-cultural theory is connection  
   - Judith Jordan: "Connection is at the core of human growth & development… We all grow in, through, and towards relationship."  
   - Alana says that she often uses this with students to focus on the connections we build, that we competence in connection, not alone   
 

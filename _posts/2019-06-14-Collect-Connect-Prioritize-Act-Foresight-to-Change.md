@@ -5,7 +5,8 @@ subtitle: Miguel Figueroa
 date: 2019-06-12 07:30:00
 categories: [Idaho Libraries Futures Camp]
 tags: [library work, futures]
-comments: true
+published: true
+comments: false
 ---
 
 Miguel Figueroa, ALA's Center for the Future of Libraries  

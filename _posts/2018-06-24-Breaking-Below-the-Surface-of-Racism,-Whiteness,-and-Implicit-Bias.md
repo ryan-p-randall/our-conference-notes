@@ -5,15 +5,14 @@ subtitle: April Hathcock
 date: 2018-06-24 14:30:00
 categories: [ALA Annual Convention 2018]
 tags: [critical race theory, bias, whiteness]
-comments: true
+published: true
+comments: false
 ---
   
 
 April Hathcock  
 This etherpad is for the ALAAC2018 Sunday 2:30pm--3:30pm session: 
 [Breaking Below the Surface of Racism, Whiteness, and Implicit Bias](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352249)
-
-{Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!}  
 
 ## Session Starts  
 
@@ -25,7 +24,7 @@ This etherpad is for the ALAAC2018 Sunday 2:30pm--3:30pm session:
 - Implicit bias: assumptions, both conscious and unconscious  
 - Whiteness is a form of implicit bias based on race that's also an ideology with whiteness, white values, white perspectives valued above those of people of color  
 
-- whiteness can pop up anywhere, everywhere, since it's rooted in centuries of our society's deveopment  
+- whiteness can pop up anywhere, everywhere, since it's rooted in centuries of our society's development  
 
 - Whiteness goes beyond overt hostile act; can be nice, polite, friendly while still being just as harmful  
 

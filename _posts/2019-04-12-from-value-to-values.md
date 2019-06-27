@@ -5,7 +5,8 @@ subtitle: Eamon Tewell, Nora Almeida, Romel Espinel, and Lisa Hinchliffe
 date: 2019-04-12
 categories: [ACRL 2019]
 tags: [infoLit, capitalism, value(s)]
-comments: true
+published: true
+comments: false
 ---
 
 Presenters:  

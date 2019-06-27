@@ -5,13 +5,12 @@ subtitle: Karen Kaufmann, Peggy Nuhn, Morgan Tracy, and Rachel Mulvihill
 date: 2018-06-23 14:30:00
 categories: [ALA Annual Convention 2018]
 tags: [instruction, transfer students]
-comments: true
+published: true
+comments: false
 ---
 
 This etherpad is for the ALAAC2018 Saturday 2:30pm--3:30pm session: 
 [Building Inclusion: How Can Research Instruction at Two-Year Colleges Help Students Successfully Transition to the University?](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352254) 
-
-Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!  
 
 ## Presenters  
 

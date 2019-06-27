@@ -5,13 +5,12 @@ subtitle: Elia Trucks, Holly Kouns, and Camille Thomas
 date: 2018-06-23 16:00:00
 categories: [ALA Annual Convention 2018]
 tags: [early career librarianship, management, leadership]
-comments: true
+published: true
+comments: false
 ---
 
 This etherpad is for the ALAAC2018 Saturday 4:00pm--5:00pm session:  
-[New Librarians on the Block: Early Career Librarianship, Management, and Leadership](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459)
-
-Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!  
+[New Librarians on the Block: Early Career Librarianship, Management, and Leadership](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352459)  
 
 ## Panel  
 

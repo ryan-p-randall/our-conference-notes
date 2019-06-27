@@ -11,8 +11,6 @@ comments: true
 This etherpad is for the ALAAC2018 Sunday 10:30am--11:30am session:  
 [Whiteness in LIS: Tracing its Impact, Mapping Resistance](https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352589)  
 
-Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!  
-
 ## Gina Schlesselman-Tarango, introductions  
 
 Instructional Services and Initiatives Librarian at California State University, San Bernardino
@@ -25,13 +23,13 @@ Georgia College
 
 - A Revisionist History of Andrew Carnegie's Land Grants to Black Colleges  
 - Anthology chapter came about as she was working on her dissertation,  
-1994 chapter on Carnegie already existed, but did not really represent library workers as agents themselves, so wanted to revist material  
+1994 chapter on Carnegie already existed, but did not really represent library workers as agents themselves, so wanted to revisit material  
 
 - Philanthropy, libraries, and African Americans - philanthropy  
 
 - Frame: Critical Race Theory, which emerged in 1970s out of critical legal studies  
 - dominant group only permits racial progress when such progress also results in benefits for the dominant group (Delgado quote I think)  
-- Whiteness as Property, whiteness as an aspet of identity and a property interst, something both experiences and deployed as a resource  (Cheryl Harris)  
+- Whiteness as Property, whiteness as an aspect of identity and a property interest, something both experiences and deployed as a resource  (Cheryl Harris)  
 
 - Andrew Carnegie funded 2509 public, 108 academic libraries  
 - quote from Carnegie describing the "Negro" as an economic asset   
@@ -150,5 +148,5 @@ A: Kristyn C.: If it's not there, create it. Try independent study, etc.
 	
 ### S. Grey: If there are any reference librarians who are not people of color, I've noticed that the fear of black people really impacts the services provided to black people.  
 
-The service that is needed, especially in places like community colleges, is the only place where people of color can get the technology or other guidance that would help them succeed to their potential. / How can we as librarians implore the human aspect of staff when automation is coming?   
+The service that is needed, especially in places like community colleges, is the only place where people of color can get the technology or other guidance that would help them succeed to their potential. / How can we as librarians implore the human aspect of staff when automation is coming?  
 A: Maura S.: higher up people make decisions, have to pressure them, we have to vocally valorize face-to-face work  

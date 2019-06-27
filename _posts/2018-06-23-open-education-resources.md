@@ -5,14 +5,13 @@ subtitle: Beth Bernhardt, Nicole Allen, Cheryl Cuillier, Teri Gallaway, and Lind
 date: 2018-06-25 10:30:00
 categories: [ALA Annual Convention 2018]
 tags: [open educational resources (OER)]
-comments: true
+published: true
+comments: false
 ---
 
 This etherpad is for the ALAAC2018 Monday 10:30am--11:30am session:  
 Open Education Resources (OER): Where Libraries Are and Where We are Going 
 https://www.eventscribe.com//2018/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=352299  
-
-Please add your name using the "multiple people" icon on the right so we know who to thank for helping take group notes!  
 
 ## Introduced by Sam Harlow  
 
