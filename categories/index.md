@@ -6,7 +6,7 @@ search_omit: true
 ---
 
 {% assign all_categories = site.categories %}
-{% assign alphabetical_categories = all_categories | sort_natural %}
+{% assign alphabetical_categories = (all_categories | sort_natural) %}
 {% for category in alphabetical_categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
