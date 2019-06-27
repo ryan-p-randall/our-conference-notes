@@ -37,17 +37,16 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Presented on {{ page.date | date: "%B %-d, %Y" }}</span>
-      <span class="post-meta post-categories">
-        {% if include.type = "post" %}
-          {% assign categories = post.categories %}
+		  {% endif %}
+      {% if include.type = "post" %}
+        {% assign categories = post.categories %}
         {% else %}
           {% assign categories = page.categories %}
-        {% endif %}
-        {% for category in categories %}
-        Here are more notes from <a href="{{site.baseurl}}/categories/#{{category|slugify}}">{{category}}</a>
+      {% endif %}
+      {% for category in categories %}
+        <span class="post-meta post-categories">Here are more notes from <a href="{{site.baseurl}}/categories/#{{category|slugify}}">{{category}}</a></span>
         {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
-      </span>
+      {% endfor %}
 		  {% endif %}
         </div>
       </div>
