@@ -112,6 +112,14 @@ footer .copyright {
   bottom: 0;
   display: none;
 }
+
+.post-categories {
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0 0 10px;
+}
+
 .pager li a {
   font-family: 'CooperHewitt-Book', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: none; /* uppercase; */
