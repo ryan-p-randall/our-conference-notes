@@ -4,10 +4,21 @@ layout: base
 
 {% include header.html type="post" %}
 
+<div class="post-meta post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  Here are more notes from <a href="{{site.baseurl}}/categories/#{{category|slugify}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
+
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
         {% assign gh_user =  gh_split[0]  %}
