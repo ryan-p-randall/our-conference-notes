@@ -35,11 +35,9 @@
 			{% endif %}
 		  {% endif %}
 		  
-		  {% if include.type == "post" %}
-		  <span class="post-meta">Presented on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
       <div class="post-meta post-categories">
         {% if post %}
+        <span class="post-meta">Presented on {{ page.date | date: "%B %-d, %Y" }}</span>
           {% assign categories = post.categories %}
         {% else %}
           {% assign categories = page.categories %}
