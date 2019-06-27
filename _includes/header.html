@@ -37,7 +37,8 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Presented on {{ page.date | date: "%B %-d, %Y" }}</span>
-      <div class="post-categories">
+		  {% endif %}
+      <div class="post-meta post-categories">
         {% if post %}
           {% assign categories = post.categories %}
         {% else %}
@@ -48,7 +49,6 @@
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
       </div>
-		  {% endif %}
         </div>
       </div>
     </div>
