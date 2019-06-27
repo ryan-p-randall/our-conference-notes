@@ -5,8 +5,9 @@ excerpt: "An archive of posts sorted by conference."
 search_omit: true
 ---
 
-{% assign sorted_categories = (site.categories | sort_natural) %}
-{% for category in sorted_categories %}
+{% assign all_categories = site.categories %}
+{% assign alphabetical_categories = all_categories | sort_natural %}
+{% for category in alphabetical_categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
