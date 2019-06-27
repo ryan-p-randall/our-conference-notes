@@ -14,3 +14,4 @@ search_omit: true
     {% endfor %}
   </ul>  
 {% endfor %}
+{% comment %} Alphabetical logic from https://gist.github.com/Phlow/57eb457898e4ac4c4a20 , can't remember where <li> logic came from or if I made it {% endcomment %}
