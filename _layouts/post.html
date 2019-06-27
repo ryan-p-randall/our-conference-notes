@@ -31,18 +31,6 @@ layout: base
         </div>
       {% endif %}
 
-      <div class="post-categories">
-        {% if post %}
-          {% assign categories = post.categories %}
-        {% else %}
-          {% assign categories = page.categories %}
-        {% endif %}
-        {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugify}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
-      </div>
-
       <article role="main" class="blog-post">
         {{ content }}
       </article>
