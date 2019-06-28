@@ -1,4 +1,20 @@
-# Fobazi Ettarh's talk  
+---
+layout: post
+title: "Becoming a Proud “Bad Librarian”: Dismantling Vocational Awe in Librarianship"
+subtitle: "Fobazi Ettarh"
+date: 2019-04-13 08:30:00
+categories: [ACRL 2019]
+tags: [library work, praxis, theory]
+published: true
+comments: false
+---
+
+These notes are for the ACRL2019 Invited Presentation:  
+[Becoming a Proud “Bad Librarian”: Dismantling Vocational Awe in Librarianship](https://s4.goeshow.com/acrl/national/2019/profile.cfm?profile_name=session&master_key=E7D82252-0789-4CB8-60C3-10B77ACF134B&page_key=126CB9A0-B53A-2A1E-9827-DF2938A26C80&xtemplate&userLGNKEY=0)
+
+{I arrived a little late, so these notes start a bit into the talk}  
+
+## Invited Presentation  
 
 - Setting up scenario & consequences of vocational awe  
 - Firmly believes in work-life separation  
@@ -34,7 +50,7 @@ have little work/life separation
   - characteristics that Jones & Okun include
     - defensiveness  
     - right to comfort; comfort seen as more important than the realities of situation being shown  
-    - workship of the written word; cataloguers job is to write the written word, do define the "right way" to access, define, represent information. when hold those systems above what we see in daily lives, that's white supremacy culture; terms change & the written word will never be more important than human beings  
+    - worship of the written word; cataloguers job is to write the written word, do define the "right way" to access, define, represent information. when hold those systems above what we see in daily lives, that's white supremacy culture; terms change & the written word will never be more important than human beings  
 
 - What kind of bad librarian are you?  
   - every one of us is a bad librarian in some ways, in the words of Rhianna: being bad can feel so good  
@@ -72,3 +88,9 @@ A: Usually, job calls make it easy by saying "essential duties," or "required qu
 ### Q: It's so refreshing to hear from you, a Millenial and I'm a Baby Boomer librarian. Two comments: I wrote a book to address what I felt I should have learned. Your title is very catchy and makes me think, the word "bad"… how did that come about? Did someone make you feel bad? Are there other ways to feel?  
 
 A: Two reasons I chose "proud" "bad" as descriptors. One, as you said, sometimes one is negatively impacted by (…) example of black librarian in Evanston, ILL put on social media that although library has posters claiming to be open to all, but she saw patterns of discriminatory practice against patrons of color. Our library values should say that this was great to do, but she was almost fired and only stopped from retaliation by community members going to Board meetings to protect her. Also community people said that she should have said what she meant more nicely. Sought to bury the information to keep library's image of "place of good work" Also decision to have conference in Orlando after Pulse shooting and the claims about "lots of people are technically unsafe" idea that kumbayah can stop people from being shot by the police. The people of color aspect, the queerness aspect was erased. Some might claim that race and identity factors are outside of our work, but they do impact our decisions. Also my friends love the "Bad Moms" movies, kind of raunchy movie rebellious movie. Connection between librarianship & all the expectations of emotional & other labor. So both that libraries make us feel bad & to rebel against that paradigm   
+
+## Links to Etherpad  
+
+[original etherpad](https://pad.riseup.net/p/r.16d5e9725b201aaf9886b79a099a8e57)  
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.16d5e9725b201aaf9886b79a099a8e57?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>

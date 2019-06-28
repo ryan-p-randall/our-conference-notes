@@ -1,4 +1,16 @@
-# Reading Critically, Thinking Critically  
+---
+layout: post
+title: "Reading Critically, Thinking Critically"
+subtitle: "Anne-Marie Deitering, Stefanie Otis, Anne Jumonville Graf, Ashleigh Coren, and Hannah Gascho Rempel"
+date: 2019-04-11 16:00:00
+categories: [ACRL 2019]
+tags: [information literacy]
+published: true
+comments: false
+---
+
+These notes are for the ACRL2019 Thursday 4:00pm-5:00pm session:  
+[Reading Critically, Thinking Critically](https://s4.goeshow.com/acrl/national/2019/profile.cfm?profile_name=session&master_key=01BF3987-92DA-98BD-75C0-A7E41E5B628C&page_key=126CB9A0-B53A-2A1E-9827-DF2938A26C80&xtemplate&userLGNKEY=0)  
 
 Presenters:  
 - Anne-Marie Deitering  
@@ -7,9 +19,9 @@ Presenters:
 - Ashleigh Coren  
 - Hannah Gascho Rempel  
 
-_Critical Reading in Higher Education Academic Goals and Social Engagement_ book is highly recommended as something that they consulted before the panel 
-Jstor link to book https://www.jstor.org/stable/j.ctt18crz3s
-also available on ebook central https://ebookcentral.proquest.com/lib/johnjay-ebooks/detail.action?docID=4088470 
+_Critical Reading in Higher Education Academic Goals and Social Engagement_ book is highly recommended as something that they consulted before the panel  
+- [Jstor link to book](https://www.jstor.org/stable/j.ctt18crz3s)  
+- also available on [ebook central](https://ebookcentral.proquest.com/lib/johnjay-ebooks/detail.action?docID=4088470)  
 
 ## Anne-Marie:  
 
@@ -34,7 +46,7 @@ responsive, somewhere between either regurgitate or react
   - ability to identify perspective  
   - purpose  
   - silences & contradictions, power  
--examine primary source, different components like tech, language, etc.  
+- examine primary source, different components like tech, language, etc.  
 
 ## Ashleigh:  
 
@@ -177,3 +189,9 @@ A: Ashleigh says she's very intentional about finding things that would affect h
 ### Q: new center for teaching & learning at her place: assessment often about student success; how shape narratives around retention or impact when you're doing more of a train-the-trainer model  
 
 A: Anne-Marie doesn't much yet; they're assessing work with the grad students, currently coding interviews to see if grad students are transferring what A-M & H teach them into other contexts. Largely qualitative, still a narrative talking about this stuff  
+
+## Link to Etherpad  
+
+[original etherpad](https://pad.riseup.net/p/r.1d13980557290940cbcc81ed846389b1)  
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.1d13980557290940cbcc81ed846389b1?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>

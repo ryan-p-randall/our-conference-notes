@@ -3,7 +3,7 @@ layout: post
 title: "Maker Instruction through the Lens of Information"
 subtitle: Amy Vecchione & Stephanie Milne-Lane
 categories: [BSU Albertsons Library]
-tags: [infoLit, makerspaces, framework]
+tags: [information literacy, makerspaces, framework]
 published: true
 comments: false
 ---

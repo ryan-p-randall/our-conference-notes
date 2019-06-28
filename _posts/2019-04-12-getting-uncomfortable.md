@@ -1,4 +1,16 @@
-# Getting Uncomfortable is Good for You: Turning Narrative into Action with Allyship and Advocacy
+---
+layout: post
+title: "Getting Uncomfortable is Good for You: Turning Narrative into Action with Allyship and Advocacy"
+subtitle: "Ms. Lilly Ramin, Maria Cunningham, Jesse Silva, Annie Downey, and Colleen Sanders"
+date: 2019-04-12 10:30:00
+categories: [ACRL 2019]
+tags: [allyship, praxis]
+published: true
+comments: false
+---
+
+These notes are for the ACRL2019 Friday 10:30am-11:30am session:  
+[Getting Uncomfortable is Good for You: Turning Narrative into Action with Allyship and Advocacy](https://s4.goeshow.com/acrl/national/2019/profile.cfm?profile_name=session&master_key=01BB34FD-EF40-6F45-98D6-9FC18046096D&page_key=126CB9A0-B53A-2A1E-9827-DF2938A26C80&xtemplate&userLGNKEY=0)  
 
 Presenters:  
 - Ms. Lilly Ramin  
@@ -59,7 +71,7 @@ Incorporating Diversity into Collections
   - finding creative ways to diversify the collection (zines)  
 - Managers can  
   - do comprehensive collection assessments  
-  - ask who are the top poc researchers in your field? how many of their works do you have?  
+  - ask who are the top POC researchers in your field? how many of their works do you have?  
 - Professional development  
   - Maria is often the only Black person present at prof dev she attends, there's a burden of representation of her institution & her race  
   - Trainings are typically Eurocentric and/or minimize the contributions of POC; also reflects on the biases she brings to the sessions / materials  
@@ -90,7 +102,7 @@ Incorporating Diversity into Collections
       - sense of urgency  
       - power hoarding  
       - fear of open conflict  
-- Sara Ahmed's _On Complaint_ and she connects that to April Hathcock's experience [me: of being labeled a troublemaker & verbally attacked] at ALA  
+- Sara Ahmed's _On Complaint_ and she connects that to April Hathcock's experience {me: of being labeled a troublemaker & verbally attacked} at ALA  
 - practice humility & deeply listen  
 - practice transparency in management  
 - grapple with systemic barriers  
@@ -99,7 +111,7 @@ Incorporating Diversity into Collections
 
 ## Colleen Sanders, Clackamas Community College in Oregon City, OR  
 
-- colleages have made a lifestyle choice at her institution to put equity, diversity, inclusion foremost in their every decision  
+- colleagues have made a lifestyle choice at her institution to put equity, diversity, inclusion foremost in their every decision  
 - well meaning, liberal white women are common in libraries, haven't done enough change  
 - how to move from awareness to action? start studying white supremacy for about a year, up to where she felt it was narcissistic  
 - on twitter she learned when to be silent & when to speak up  
@@ -148,3 +160,9 @@ A: Lilly says that some places do discussion in affinity groups & then group dis
 
 - Rowman & LIttlefield book shout-out  
 [_In our own voices redux: the faces of librarianship today_](http://www.worldcat.org/oclc/1078961302) highly recommended by Annie  
+
+## Link to Etherpad  
+
+[original etherpad](https://pad.riseup.net/p/r.341974c586415bee58cb5fa3a8db535f)  
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.341974c586415bee58cb5fa3a8db535f?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>

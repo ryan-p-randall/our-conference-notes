@@ -4,7 +4,7 @@ title: "From Value to Values: Information Literacy, Capitalism, and Resistance"
 subtitle: Eamon Tewell, Nora Almeida, Romel Espinel, and Lisa Hinchliffe
 date: 2019-04-12
 categories: [ACRL 2019]
-tags: [infoLit, capitalism, value(s)]
+tags: [information literacy, capitalism, value(s)]
 published: true
 comments: false
 ---

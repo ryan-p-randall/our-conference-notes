@@ -1,8 +1,24 @@
-# From Back Stage to Center Stage
+---
+layout: post
+title: "From Backstage to Center Stage: Community College Libraries and OER"
+subtitle: "Ms. Brenda Hazard, Gregg Kiehl, Katie Ghidiu, and Carrie Fishner"
+date: 2019-04-13 09:45:00
+categories: [ACRL 2019]
+tags: [community colleges, open educational resources (OER)]
+published: true
+comments: false
+---
 
-- Missed the panelists' names and institutions; I'll try to add them  
+These notes are for the ACRL2019 Saturday 9:45am-10:45am session:  
+[From Backstage to Center Stage: Community College Libraries and OER](https://s4.goeshow.com/acrl/national/2019/profile.cfm?profile_name=session&master_key=01BABCAD-F668-CA7E-4345-422D1E34FF49&page_key=126CB9A0-B53A-2A1E-9827-DF2938A26C80&xtemplate&userLGNKEY=0)  
 
-- Background of Fall 2017 $4M given to SUNY from NYS legilsature to incentivize faculty to adopt OER to reduce the cost of college attendance  
+Panelists:  
+- Ms. Brenda Hazard
+- Gregg Kiehl
+- Katie Ghidiu
+- Carrie Fishner
+
+- Background of Fall 2017 $4M given to SUNY from NYS legislature to incentivize faculty to adopt OER to reduce the cost of college attendance  
 
 ## Hudson Valley Commmunity College in Troy, NY  
 
@@ -78,7 +94,7 @@ Student designed covers, student in graphic design course had an assignment wher
 
 ## Discussion  
 
-use www.menti.com for voting on "What do you most want to learn about today (prioritize)?  
+use <http://www.menti.com> for voting on "What do you most want to learn about today (prioritize)?  
 
 - Some group suggestions on things to do for librarian/faculty partnerships:  
   - Subject liaison librarians have been great reaching out to faculty  
@@ -133,3 +149,9 @@ A: Consider comparing impact of OER to some potentially less impactful things yo
 
 A: look for regional support, across different institutional types (work with Ithaca College & St. John Fisher in their region)  
 A: SUNY OER services also very supportive, developed online courses through creative commons 
+
+## Link to Etherpad  
+
+[original etherpad](https://pad.riseup.net/p/r.2bb9415201cf3ddfd6c97379cfae79b6)  
+
+<iframe name="embed_readonly" src="https://pad.riseup.net/p/r.2bb9415201cf3ddfd6c97379cfae79b6?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="600" height="400"></iframe>
