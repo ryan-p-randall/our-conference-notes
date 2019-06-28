@@ -2,15 +2,15 @@
   <div class="text-muted">
 	{{ site.author.name }}
 	&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-	{% if page.date %}
+	{%- if page.date -%}
 	  {{ page.date }}
-	{% else %}
+	{%- else -%}
 	  {{ site.time | date: '%Y' }}
-	{% endif %}
+	{%- endif -%}
 	
-    {% if site.url-pretty %}
+    {%- if site.url-pretty -%}
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-    {% endif %}	
+    {%- endif -%}	
   </div>
 </footer>
