@@ -4,6 +4,9 @@ title: About These Notes
 subtitle: A Better Info Sharing is Possible
 ---
 
+- Table of Contents  
+{:toc}
+
 ### The Big Picture  
 
 A lot of professional development for library workers happens through conferences, talks, presentations, webinars… all sorts of things. We can't all attend everything, nor should we expect ourselves to do extra labor while we're off the clock.  
