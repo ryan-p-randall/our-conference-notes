@@ -7,7 +7,9 @@ subtitle: A Better Info Sharing is Possible
 - Table of Contents  
 {:toc}
 
-### The Big Picture  
+### Motivation & Direction  
+
+#### The Big Picture  
 
 A lot of professional development for library workers happens through conferences, talks, presentations, webinars… all sorts of things. We can't all attend everything, nor should we expect ourselves to do extra labor while we're off the clock.  
 
@@ -15,7 +17,7 @@ Information privilege pertains to institutions, just like to communities and ind
 
 By sharing our notes, we can be stronger together.  
 
-### The Personal Picture  
+#### The Personal Picture  
 
 I type much faster than I write by hand—and the results are far more legible! This kind of note taking helps me focus during presentations, but trying to chunk the ideas into social media-sized bits adds a different type of distraction.  
 
@@ -25,7 +27,7 @@ So at one of the first library conferences I attended, I took some notes to shar
 
 Then I remembered Etherpads. Myself, Kate Deibel, Achintya Rao, Carrie Wade, and other folks from Mastodon and Twitter compared the accessibility and ease of use of [RiseUp's Etherpad](http://pad.riseup.net) to those from [CryptPad](https://cryptpad.fr/what-is-cryptpad.html). RiseUp won because it is simplest and, unlike CryptPad, doesn't break the ability to press the `tab` button for keyboard navigation. (That's fixed but is still far more cumbersome). And here we are!  
 
-### The Procedure  
+#### The Procedure  
 
 I don't claim credit for all the notes shared here, but they are shared [CC-BY](https://creativecommons.org/licenses/by/4.0/). Since RiseUp's Etherpad service is geared toward privacy, note-takers have to identify themselves in order to get credit.  
 
@@ -40,7 +42,7 @@ I'm still refining this practice. But currently it looks like:
 
 Initially I thought I'd just leave the notes in their GitHub repository. However, it's a little overwhelming, especially for new users. I also did more reading into whether GitHub is friendly for screenreaders. As far as I can tell, it isn't particularly accessible. So in order to make this as accessible as possible both cognitively and in terms of visual disabilities, I adapted Dean Attali's [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) theme.  
 
-### The Future  
+#### The Future  
 
 For ease of sharing and contributing, this is hosted on [GitHub Pages](https://help.github.com/en/articles/what-is-github-pages).  
 
@@ -77,6 +79,10 @@ I'm currently thinking this as a space for things:
 #### Fork It  
 
 I'd love it if people were inspired by this idea enough to [fork this](https://guides.github.com/activities/forking/) into collections of notes related to things outside of this collection's current scope! That's a large part of why I've chosen GitHub as the platform and licensed this CC-BY.  
+
+### Credits  
+
+This site uses Vladimir Jimenez's [jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings).  
 
 ### Contact  
 

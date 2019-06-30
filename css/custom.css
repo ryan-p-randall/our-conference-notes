@@ -157,3 +157,17 @@ footer .copyright {
   font-weight: 700;
   src: url('../assets/fonts/Lato-Bold.ttf');
 }
+
+.anchor {
+  visibility: hidden;
+  color: {{ site.hover-col }};
+}
+
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+  visibility: visible;
+}

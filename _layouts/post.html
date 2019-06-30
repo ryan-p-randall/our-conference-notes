@@ -17,11 +17,13 @@ layout: base
           Here are more notes from <a href="{{site.baseurl}}/categories/#{{category|slugify}}">{{category}}</a>
           {%- unless forloop.last -%}&nbsp;{%- endunless -%}
           {%- endfor -%}
+          <br>Corrections? Curious? Here is <a href="//github.com/{{site.gh_user}}/{{site.gh_repo}}/blob/master/{{ page.path }}">the source code for this page</a>
         </div>
       {%- if page.gh-repo -%}
         {%- assign gh_split =  page.gh-repo | split:'/'  -%}
         {%- assign gh_user =  gh_split[0]  -%}
         {%- assign gh_repo =  gh_split[1]  -%}
+
 
         <div id="header-gh-btns">
           {%- if page.gh-badge.size > 0 -%}
@@ -42,7 +44,7 @@ layout: base
       {%- endif -%}
 
       <article role="main" class="blog-post">
-        {{ content }}
+        {% include anchor_headings.html html=content anchorBody="#" anchorClass="anchor" %}
       </article>
 
       {%- if page.tags.size > 0 -%}
