@@ -172,7 +172,13 @@ h6:hover .anchor {
   visibility: visible;
 }
 
-@media only screen and (min-width: 500px) {
-.anchor {
+@media only screen and (min-width: 200px) {
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
   visibility: visible;
+}
 }
