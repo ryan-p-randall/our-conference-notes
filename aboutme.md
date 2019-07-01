@@ -82,7 +82,7 @@ I'd love it if people were inspired by this idea enough to [fork this](https://g
 
 ### Credits  
 
-This site uses Vladimir Jimenez's [jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings).  
+Check out this project's [readme page](http://github.com/{{site.gh_user}}/{{site.gh_repo}}/) for details about the technologies and projects it uses.  
 
 ### Contact  
 

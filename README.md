@@ -1,9 +1,6 @@
 # our-conference-notes
-A place for sharing collective conference notes.
 
-[2018 ALAAC notes](/2018-ALAAC-american-library-association-annual-conference)  
-[2019 ACRL notes](/2019-ACRL-association-of-college-and-research-libraries)  
-[2019 single events notes](/2019-single-events)  
+A place for sharing [collective conference notes](http://ryanpatrickrandall.com/our-conference-notes/).  
 
 ## What Is This?  
 
@@ -36,7 +33,8 @@ These RiseUp etherpads also mobile responsive and use tab indexing to make the c
 
 ## Credits  
 
-The website version of this project uses:  
+This project's website uses:  
 
 - The [Beautiful Jekyll theme](https://deanattali.com/beautiful-jekyll/) made by [Dean Attali](http://attalitech.com), with some minor revisions by Ryan.  
 - The [Owl by Creative Stall from the Noun Project](https://thenounproject.com/term/owl/749589/) as the avatar image at the top of most pages.  
+- The [jekyll-anchor-headings](https://github.com/allejo/jekyll-anchor-headings) liquid plug-in made by [Vladimir Jimenez](https://github.com/allejo).  

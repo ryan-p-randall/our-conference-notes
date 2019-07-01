@@ -21,7 +21,7 @@ description: We're stronger notetakers together!
 
 # Lifespan -- this lets you have a range of dates rather than a single year in the footer
 
-lifespan: 2018-2019
+lifespan: 2019
 
 plugins:
   - jekyll-paginate
